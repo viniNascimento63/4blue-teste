@@ -69,10 +69,7 @@ Você deve ver `(venv)` no início do terminal.
 ```bash
 pip install django
 ```
-Se não existir um `requirements.txt`, gere um:
-```bash
-pip freeze > requirements.txt
-```
+
 ### ✔ Criar banco de dados e tabelas
 ```bash
 python manage.py makemigrations
