@@ -36,8 +36,8 @@ Abaixo estão os passos completos para alguém testar o projeto do zero.
 
 #  1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/seu_repositorio.git
-cd seu_repositorio
+git clone https://github.com/viniNascimento63/4blue-teste.git
+cd 4blue-teste
 ```
 A  estrutura  esperada  é:
 - 4blue-teste/
