@@ -65,9 +65,9 @@ source venv/bin/activate
 ```
 Você deve ver `(venv)` no início do terminal.
 
-### ✔ Instalar dependências
+### ✔ Instalar Django
 ```bash
-pip install -r requirements.txt
+pip install django
 ```
 Se não existir um `requirements.txt`, gere um:
 ```bash
