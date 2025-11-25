@@ -1,0 +1,30 @@
+db.sqlite3
+*.pyc
+*log
+*.pot
+*.py~
+venv
+
+# dependências
+node_modules/
+
+# build
+dist/
+
+# local vite cache
+.vite/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# arquivos de sistema
+.DS_Store
+Thumbs.db
